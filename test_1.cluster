@@ -1,0 +1,4 @@
+{num_controllers,3}.
+{cluster_name,"test_1"}.
+{cookie,"test_1_cookie"}.
+{hosts,["c0","c1"]}.
