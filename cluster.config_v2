@@ -1,0 +1,2 @@
+[{cluster_name,"test_1"},{controller_host,["c1_varmdo"]},{worker_hosts,1,["c1_varmdo"]},{cookie,"test_1_cookie"}].
+[{cluster_name,"test_10"},{controller_host,["c1_varmdo"]},{worker_hosts,1,["c1_varmdo","asus_varmdo"]},{cookie,"test_10_cookie"}].
